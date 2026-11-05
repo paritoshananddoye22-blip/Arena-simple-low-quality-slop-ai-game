@@ -1,0 +1,6 @@
+{
+  "name": "3D FPS Arena",
+  "description": "Fast-paced 3D first-person shooter arena survival game featuring raycast combat, procedural audio, wave-based enemy AI, and responsive first-person controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
